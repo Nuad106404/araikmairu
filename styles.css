@@ -40,7 +40,7 @@ body {
 /* Reels Styling */
 .reels-container {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(5, 100px);
     gap: 15px;
     justify-content: center;
     margin-bottom: 30px;
